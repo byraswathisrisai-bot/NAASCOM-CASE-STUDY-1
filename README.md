@@ -61,6 +61,6 @@ This case study applies **Python Basics, NumPy, Linear Algebra, and Calculus** t
 This project was created as a case study assignment to practice applying Python programming and mathematical concepts to a real-world EV battery analysis problem.
 
 Author
-swathi byra
+Swathi Byra
 
 
